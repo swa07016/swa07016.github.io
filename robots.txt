@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://rolwinreevan.com/sitemap.xml
-Host: https://rolwinreevan.com
+Sitemap: https://swa07016.github.io/sitemap.xml
+Host: https://swa07016.github.io
